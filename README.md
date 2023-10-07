@@ -1,7 +1,8 @@
 <samp>
 <h1 align="left">Hi There, I'm Ary Raditya</h1>
 <!-- <img src="https://readme-typing-svg.herokuapp.com?color=70A5FD&duration=3000&lines=Hi+There!+I'm+Ary+Raditya" alt="Ary Raditya" /> -->
-<h4 align="left">A Full-stack Software Engineer base on Indonesia 🇮🇩</h4>
+<p align="left">A Full-stack Software Engineer base on Indonesia 🇮🇩</p>
+                                            
 
 <br />
   
